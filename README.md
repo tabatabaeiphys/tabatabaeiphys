@@ -1,6 +1,6 @@
 # Mohammad Tabatabaei
 
-**M.Sc. Statistical Physics of Complex Systems ** — Isfahan University of Technology  
+**M.Sc. Statistical Physics of Complex Systems** — Isfahan University of Technology  
 
 ---
 
