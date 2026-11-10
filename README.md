@@ -15,5 +15,6 @@
 ## 📬 Contact
 
 [![Email](https://img.shields.io/badge/Email-tabatabaeiphys%40gmail.com-red?style=flat-square&logo=gmail)](mailto:tabatabaeiphys@gmail.com)
-[![University Email](https://img.shields.io/badge/University_Email-m.tabatabaeikahangi%40alumni.iut.ac.ir-lightgrey?style=flat-square&logo=microsoft-outlook)](mailto:m.tabatabaeikahangi@alumni.iut.ac.ir)
+🎓 [![University Email](https://img.shields.io/badge/University_Email-stabatabaei%40etu.unistra.fr-0077B5?style=flat-square)](mailto:stabatabaei@etu.unistra.fr)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohamad-tabatabaei/)
